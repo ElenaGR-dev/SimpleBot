@@ -1,0 +1,2 @@
+# SimpleBot
+Project from hyperskill
